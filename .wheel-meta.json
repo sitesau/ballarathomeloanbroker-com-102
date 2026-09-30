@@ -1,0 +1,19 @@
+{
+  "wheel_id": 329,
+  "structure": "umbrella",
+  "slug": "ballarathomeloanbroker-com-102",
+  "project": "home-loan-broker-ballarat-costs-50ef17d3f0d544d0361b55f22779c18",
+  "parent_t1_ref": "ballarathomeloanbroker-com-150",
+  "node_role": "feeder",
+  "money_target": "ballarathomeloanbroker.com.au",
+  "primary_kw": "home loan broker ballarat costs",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-broker-ballarat-costs-50ef17d3f0d544d0361b55f22779c18/",
+  "writeback_nonce": "113d4de892834752",
+  "links": [
+    {
+      "target_url": "http://home-loan-broker-ballarat-feb0bf75865bcb89bba94cfdeade710a470c3.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "home loan broker ballarat",
+      "rel": "follow"
+    }
+  ]
+}
